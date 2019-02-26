@@ -3,6 +3,7 @@
 <html>
     <head>
         <title>Jellyfish</title>
+        <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <ul> 
