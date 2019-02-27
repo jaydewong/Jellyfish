@@ -7,13 +7,7 @@
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <ul> 
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-           
-         </ul>
+        Jellyfish: Jayde, Michael, Elson
     </body>
 
  </html>
