@@ -2,21 +2,13 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Jellyfish</title>
+     <meta http-equiv="refresh" content="0; URL='https://jaydewong.github.io/Jellyfish/GameStart'">
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
-        <ul> 
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-            <li><a href=""></a></li>
-           
-         </ul>
+        Jellyfish: Jayde, Michael, Elson
     </body>
 
  </html>
 
-jayde: scenes done, need to css
-michael: killguard path + successfulbreakin
-elson: frontgates path
+
